@@ -24,12 +24,13 @@ may take some time to convert it to your version. This will only happen once and
 
 ![](Readme/Open Project.png)
 
----
+# EXAMPLE SCENES
+
 ## Single Frame Sprites
 
-![](Readme/SingleFrame-Scene.png)
+This scene is built for those of you who have a few key poses but no animations.
 
-This scene is built for those of you who have a few key poses but no animations. 
+![](Readme/SingleFrame-Scene.png)
 
 To import your own images, first save 
 them as .png files and drag them into a folder in the unity project (e.g. ***Assets/Animation Assets/MyCharacter***).
@@ -66,9 +67,9 @@ folder should look like this (i.e. a folder containing .png files)
 ---
 ## Sprite Sheets
 
-![](Readme/SpriteSheet-Scene.png)
+This scene if for those of you who have a few multi-frame sprite sheets containing animation clips.
 
-This scene if for those of you who have a few multi-frame sprite sheets containing animation clips. 
+![](Readme/SpriteSheet-Scene.png)
 
 To bring yoursprite sheets into Unity, either export all the frames as pngs, or place all the frames into a single png in a regular
 grid, and drag these pngs into your unity assets folder (e.g. Assets/Animation Assets/<MyCharacter>).
@@ -118,6 +119,8 @@ several animations and the source image(s)).
 ## 3D Animations
 
 This scene is for people with 3D rigged models with animations. 
+
+![](Readme/3D-Scene.png)
 
 To bring your models into unity, export them as .fbx format and place them in your assets folder. If you click on your
 model in Unity you should see it's properties in the inspector. Here you can assign unity materials to replace those
