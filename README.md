@@ -15,8 +15,14 @@ with your own creations.
 
 ## Downloading this project
 
+Click on the green button labelled **Code** and select *Download Zip*. When the download is complete, unzip that folder 
+to your computer and open the unity hub. From Unity Hub, click **Open** and navigate to the folder you just unzipped.
+With that folder selected, click **Open**.
 
+Note that if there is a version mismatch between the one this project was created with and the one on your computer, it 
+may take some time to convert it to your version. This will only happen once and will open normally each time after that.
 
+![](Readme/Open Project.png)
 
 ---
 ## Single Frame Sprites
